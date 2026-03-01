@@ -1,0 +1,16 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+data
+_unsloth_sentencepiece_temp
+finetuned_lora
+outputs
+unsloth_compiled_cache
